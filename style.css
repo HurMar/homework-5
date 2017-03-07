@@ -1,0 +1,17 @@
+body {
+background: url("images/background.png") no-repeat right fixed;
+}
+p,h2{
+  color:red;
+  font-family:cursive;
+}
+main{
+  border: 3px solid red;
+}
+.fourth-couplet,.second-couplet{
+  margin-left: 300px;
+  margin-top: -200px;
+}
+.author1,.author2{
+  margin-left: 200px;
+}
